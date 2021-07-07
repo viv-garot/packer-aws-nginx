@@ -70,7 +70,7 @@ OR
 
 via awscli
 
-- Describe the image and note the snasphot-id (image-id is provided in 
+- Describe the image and note the snasphot-id (image-id is provided in the packer build command output)
 
 ```
 aws ec2 describe-images --image-ids <ami-id> --region=eu-central-1
