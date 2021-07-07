@@ -66,7 +66,9 @@ packer build aws-ubuntu.pkr.hcl
 ![image](https://user-images.githubusercontent.com/85481359/124734909-d8d3d280-df15-11eb-80f3-2cf6278cde01.png)
 
 
-Or via awscli
+OR
+
+via awscli
 
 - Describe the image and note the snasphot-id (image-id is provided in 
 
