@@ -1,7 +1,7 @@
 # packer-aws-nginx
 
 ## Description
-Create a nginx AMI on AWS via Packer
+Create a nginx EBS AMI on AWS with Packer
 
 ## Pre-requirements
 
