@@ -25,7 +25,7 @@ git clone https://github.com/viv-garot/packer-aws-nginx
 ### Change directory
 
 ```
-cd packer-aws-nging
+cd packer-aws-nginx
 ```
 
 ### Validate the template
