@@ -12,6 +12,7 @@ Create a nginx EBS AMI on AWS with Packer
 
 - Clone
 - Build
+- Clean up
 
 ---
 
@@ -56,7 +57,7 @@ unset AWS_ACCESS_KEY_ID; unset AWS_SECRET_ACCESS_KEY; doormat --smoke-test || do
 packer build aws-ubuntu.pkr.hcl
 ```
 
-### Clean-up
+### Clean up
 
 - Go to AWS Console (Okta > Doormat App) in a webbrowser
 - Go to EC2 > AMI 
